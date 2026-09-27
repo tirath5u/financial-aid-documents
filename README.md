@@ -2,6 +2,8 @@
 
 Public federal student aid sources, collected as the document corpus for an AI financial aid policy assistant.
 
+**Status:** source collection only. The assistant is not built yet; this repo is its input, not proof of retrieval quality.
+
 ## Why this exists
 
 A policy assistant for financial aid is only as good as its sources. Answers must come from official federal guidance, cite the exact document, and change when the guidance changes. This repo holds the source documents so the assistant, its test questions and its results can all point to the same versioned files.
